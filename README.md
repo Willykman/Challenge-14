@@ -22,7 +22,8 @@ Use the starter code file to complete the steps that the instructions outline. T
 
 
 
-
+![Alt text](my_plot1)
+![Alt text](my_plot)
 
 
 
