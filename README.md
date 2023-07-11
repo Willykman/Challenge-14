@@ -20,7 +20,7 @@ Use the starter code file to complete the steps that the instructions outline. T
 
 
 
-
+![cumulative return plot ](my_plot.png)
 
 ![Alt text](image link)
 ![Alt text](my_plot)
