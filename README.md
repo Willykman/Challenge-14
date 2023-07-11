@@ -20,7 +20,7 @@ Use the starter code file to complete the steps that the instructions outline. T
 
 
 
-***Technologies***
+***Technologies:***
 
 This project is written in Python with the following libraries:
 
@@ -49,6 +49,6 @@ Yes, this model did perform better than the provided baseline model.
 This model performed better than the tuned trading algorithm.
 
 
-**Contributors**
+**Contributors:**
 
 I had help with this challenge from this weeks module examples and a tutor.
