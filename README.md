@@ -23,8 +23,10 @@ Use the starter code file to complete the steps that the instructions outline. T
 
 
 
-Evaluate a New Machine Learning Classifier
+**Evaluate a New Machine Learning Classifier**
 
-Did this new model perform better or worse than the provided baseline model? This model did better than the provided baseline model.
+*Did this new model perform better or worse than the provided baseline model?*
+Yes, this model did better than the provided baseline model.
 
-Did this new model perform better or worse than your tuned trading algorithm? This model did better than the tuned trading algorithm.
+*Did this new model perform better or worse than your tuned trading algorithm?*
+This model performed better than the tuned trading algorithm.
