@@ -19,8 +19,8 @@ Use the starter code file to complete the steps that the instructions outline. T
 ***Create an Evaluation Report***
 
 
-
-![cumulative return plot ](my_plot.png)
+![cumulative return plot ](my_plot1.png)
+![cumulative return plot, updated ](my_plot.png)
 
 
 
