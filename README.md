@@ -18,6 +18,8 @@ Use the starter code file to complete the steps that the instructions outline. T
 
 ***Create an Evaluation Report***
 
+
+
 ***Technologies***
 
 This project is written in Python with the following libraries:
@@ -29,9 +31,7 @@ numpy
 sklearn
 
 
-**Contributors**
 
-I had help with this challenge from this weeks module examples and a tutor.
 
 ![cumulative return plot ](my_plot2.png)
 ![cumulative return plot ](my_plot1.png)
@@ -47,3 +47,8 @@ Yes, this model did perform better than the provided baseline model.
 
 *Did this new model perform better or worse than your tuned trading algorithm?*
 This model performed better than the tuned trading algorithm.
+
+
+**Contributors**
+
+I had help with this challenge from this weeks module examples and a tutor.
