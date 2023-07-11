@@ -32,9 +32,8 @@ sklearn
 
 
 
-Baseline
-![cumulative return plot ](my_plot2.png)
 
+![cumulative return plot ](my_plot2.png)
 ![cumulative return plot ](my_plot1.png)
 ![cumulative return plot, updated ](my_plot.png)
 
